@@ -20,7 +20,7 @@ class Student:
 
     @property
     def get_name(self):
-        return self._name
+        return
 
     @get_name.setter
     def set_name(self, new_name):
